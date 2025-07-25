@@ -1,0 +1,30 @@
+{
+  "language": {
+    "feature": "en"
+  },
+  "bindingCulture": {
+    "name": "en"
+  },
+  "stepAssemblies": [
+    {
+      "assembly": "LabCorp.UITest"
+    }
+  ],
+  "featurePaths": [
+    "Features"
+  ],
+  "stepDefinitionPaths": [
+    "Steps"
+  ],
+  "trace": {
+    "traceSuccessfulSteps": false,
+    "traceTimings": false,
+    "minTracedDurationMillis": 0
+  },
+  "runtime": {
+    "missingOrPendingStepsOutcome": "Error"
+  },
+  "diagnostics": {
+    "enabled": false
+  }
+}
